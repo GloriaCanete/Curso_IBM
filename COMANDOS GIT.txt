@@ -1,4 +1,0 @@
-git config --global user.email "gloria.canete.riveros@gmail.com"
-git config --global user.name "GloriaCanete"
-git init
-git remote add origin https://github.com/GloriaCanete/Curso_IBM.git
